@@ -1,0 +1,5 @@
+# Somando Inteiros:
+
+È utilizado a função scanf para obter 2 inteiros digitados pelo usuário.
+
+È calculado a soma dos valores e imprime o resultado usando o printf.
